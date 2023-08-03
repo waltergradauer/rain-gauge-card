@@ -1,0 +1,10 @@
+{
+  "common": {
+    "version": "Versione",
+    "invalid_configuration": "Configurazione non valida",
+    "show_warning": "Mostra Avviso",
+    "show_error": "Mostra Totale",
+    "rate": "Velocità",
+    "total": "Totale"
+  }
+}
